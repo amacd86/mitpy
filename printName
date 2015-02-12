@@ -1,0 +1,8 @@
+# Problem set 0
+# Name:Angus MacDonald
+# Time: 3:58AM
+#
+
+lastName = input('Enter your last name: ')
+firstName = input('Enter your first name: ')
+print('Hello',firstName,lastName)
